@@ -1,0 +1,8 @@
+ISHTAA INTERIORS — SOURCE ASSET REFERENCES
+
+Source pages reviewed:
+https://ishtaainteriors.com/
+https://ishtaainteriors.com/portfolio/
+https://ishtaainteriors.com/contact/
+
+The redesign uses the public project-image URLs exposed by the source website. The image binaries are not yet stored locally in this GitHub repository. Before production, copy them to repository/CDN storage and confirm reuse rights.
