@@ -43,7 +43,7 @@ button,input,select,textarea{font:inherit}
 .trust div:last-child{border-right:0}
 .trust strong{display:block;font-size:17px;font-weight:700}
 .trust span{font-size:9px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}
-section{padding:64px 0}
+section{padding:48px 0}
 .cream{background:var(--cream)}
 .split{display:grid;grid-template-columns:1.04fr .96fr;gap:46px;align-items:center}
 .photo{border-radius:22px;overflow:hidden;box-shadow:0 18px 52px #47332212}
@@ -88,7 +88,7 @@ section{padding:64px 0}
 .cta .eyebrow{color:#d9b37d}
 .cta p{color:#ffffffb3;max-width:680px;font-size:14px;margin:6px 0 0}
 .cta h2{font-size:clamp(2.2rem,4vw,4.4rem);line-height:.98;margin:8px 0}
-.page-hero{padding:64px 0 54px;background:var(--cream)}
+.page-hero{padding:44px 0 36px;background:var(--cream)}
 .page-hero p{max-width:780px;color:var(--muted);font-size:15px;line-height:1.65}
 .contact-grid{display:grid;grid-template-columns:.85fr 1.15fr;gap:46px;align-items:start}
 .form-card{padding:24px;border-radius:20px;background:var(--cream);border:1px solid var(--line)}
