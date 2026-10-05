@@ -23,7 +23,7 @@ button,input,select,textarea{font:inherit}
 .nav-links{display:flex;gap:24px;font-size:13px}
 .nav-links a{opacity:.7;position:relative}
 .nav-links a:hover,.nav-links a.active{opacity:1;color:var(--brown)}
-.nav-menu{display:none;border:0;background:none;font-size:22px}
+.nav-menu{display:none;border:0;background:none;font-size:22px;color:var(--brown);padding:4px 0;line-height:1;appearance:none;-webkit-appearance:none}
 .hero{padding:14px 0}
 .hero-shell{display:grid;grid-template-columns:.9fr 1.1fr;min-height:570px;border-radius:28px;overflow:hidden;background:var(--espresso);box-shadow:0 20px 65px #47332216}
 .hero-copy{padding:46px 48px;color:#fff;display:flex;flex-direction:column;justify-content:center}
